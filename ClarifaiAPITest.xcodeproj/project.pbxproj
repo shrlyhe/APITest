@@ -29,6 +29,7 @@
 		D8DDA0431CBDD56A00832676 /* Pods-ClarifaiApiDemo.debug.xcconfig in Resources */ = {isa = PBXBuildFile; fileRef = D8DDA0401CBDD56A00832676 /* Pods-ClarifaiApiDemo.debug.xcconfig */; };
 		D8DDA0441CBDD56A00832676 /* Pods-ClarifaiApiDemo.release.xcconfig in Resources */ = {isa = PBXBuildFile; fileRef = D8DDA0411CBDD56A00832676 /* Pods-ClarifaiApiDemo.release.xcconfig */; };
 		D8DDA0461CBDD59000832676 /* libPods-ClarifaiApiDemo.a in Frameworks */ = {isa = PBXBuildFile; fileRef = D8DDA0451CBDD59000832676 /* libPods-ClarifaiApiDemo.a */; };
+		D8E67DBF1CBF1EAA00CC8857 /* Launch Screen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D8E67DBE1CBF1EAA00CC8857 /* Launch Screen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -89,6 +90,7 @@
 		D8DDA0401CBDD56A00832676 /* Pods-ClarifaiApiDemo.debug.xcconfig */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xcconfig; name = "Pods-ClarifaiApiDemo.debug.xcconfig"; path = "Pods/Target Support Files/Pods-ClarifaiApiDemo/Pods-ClarifaiApiDemo.debug.xcconfig"; sourceTree = "<group>"; };
 		D8DDA0411CBDD56A00832676 /* Pods-ClarifaiApiDemo.release.xcconfig */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xcconfig; name = "Pods-ClarifaiApiDemo.release.xcconfig"; path = "Pods/Target Support Files/Pods-ClarifaiApiDemo/Pods-ClarifaiApiDemo.release.xcconfig"; sourceTree = "<group>"; };
 		D8DDA0451CBDD59000832676 /* libPods-ClarifaiApiDemo.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = "libPods-ClarifaiApiDemo.a"; path = "../../Desktop/Projects/ClarifaiAPITest/ClarifaiAPITest/libPods-ClarifaiApiDemo.a"; sourceTree = "<group>"; };
+		D8E67DBE1CBF1EAA00CC8857 /* Launch Screen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = "Launch Screen.storyboard"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -212,6 +214,7 @@
 				D8DDA03E1CBDD47700832676 /* ClarifaiAPITest-Bridging-Header.h */,
 				D8DDA0081CBDD22E00832676 /* ViewController.swift */,
 				D8DDA03C1CBDD31400832676 /* Main.storyboard */,
+				D8E67DBE1CBF1EAA00CC8857 /* Launch Screen.storyboard */,
 				D8DDA00D1CBDD22E00832676 /* Assets.xcassets */,
 				D8DDA00F1CBDD22E00832676 /* LaunchScreen.storyboard */,
 				D8DDA0121CBDD22E00832676 /* Info.plist */,
@@ -363,6 +366,7 @@
 			files = (
 				D8DDA0111CBDD22E00832676 /* LaunchScreen.storyboard in Resources */,
 				D8DDA00E1CBDD22E00832676 /* Assets.xcassets in Resources */,
+				D8E67DBF1CBF1EAA00CC8857 /* Launch Screen.storyboard in Resources */,
 				D8DDA03D1CBDD31400832676 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
